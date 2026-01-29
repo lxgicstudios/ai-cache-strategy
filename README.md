@@ -1,5 +1,10 @@
 # ai-cache-strategy
 
+[![npm version](https://img.shields.io/npm/v/ai-cache-strategy.svg)](https://www.npmjs.com/package/ai-cache-strategy)
+[![npm downloads](https://img.shields.io/npm/dm/ai-cache-strategy.svg)](https://www.npmjs.com/package/ai-cache-strategy)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Get AI-powered caching strategy suggestions for your API.
 
 ## Install
