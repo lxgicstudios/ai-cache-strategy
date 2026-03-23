@@ -40,7 +40,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-cache-strategy#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-cache-strategy"
+    "url": "git+https://github.com/LXGIC-Studios/ai-cache-strategy.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-cache-strategy/issues"
