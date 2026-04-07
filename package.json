@@ -1,5 +1,5 @@
 {
-  "name": "ai-cache-strategy",
+  "name": "@lxgicstudios/ai-cache-strategy",
   "version": "1.0.0",
   "description": "AI-powered caching strategy generator - optimal cache TTLs and invalidation with GPT",
   "main": "dist/index.js",
