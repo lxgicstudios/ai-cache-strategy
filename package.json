@@ -15,32 +15,36 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
+    "api",
+    "automation",
     "cache",
     "caching",
-    "redis",
-    "performance",
-    "api",
-    "ttl",
-    "developer-tools",
+    "claude",
     "cli",
-    "automation",
-    "typescript",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "optimization",
-    "strategy"
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-cache-strategy#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-cache-strategy.git"
+    "url": "https://github.com/LXGIC-Studios/ai-cache-strategy"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-cache-strategy/issues"
